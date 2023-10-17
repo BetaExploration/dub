@@ -30,8 +30,6 @@ importers:
         specifier: ^1.10.15
         version: 1.10.15
 
-  apps/docs: {}
-
   apps/web:
     dependencies:
       '@boxyhq/saml-jackson':
